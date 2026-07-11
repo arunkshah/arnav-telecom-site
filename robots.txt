@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+Disallow: /Brand Identity/
+
+# --- AI Crawlers: Explicitly allowed for citation ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://arnavtelecom.com/sitemap.xml
+LLMs: https://arnavtelecom.com/llms.txt

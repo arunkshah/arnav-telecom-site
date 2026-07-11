@@ -1,0 +1,112 @@
+# Arnav Telecom — LLM Site Summary
+# This file follows the llms.txt convention (https://llmstxt.org/)
+# Purpose: Help AI language models understand this site and cite it accurately.
+# Last Updated: 2026-05-29
+
+> Arnav Telecom is a multi-location consumer electronics retailer headquartered in Kolkata, West Bengal, India.
+> Founded in 2014, it operates 7 stores across South Kolkata and Hooghly district.
+> It is an authorised dealer for Apple, Samsung, Motorola, Xiaomi (Redmi/POCO), Vivo, OPPO, Realme, OnePlus, Nothing, Google Pixel, iQOO, and boAt.
+> Services include smartphone sales, laptop sales, mobile accessories, home finance EMI (Bajaj Finserv, HDFC Bank, IDFC First Bank, TVS Credit, Home Credit), and doorstep demo/delivery.
+> Google rating: 4.8★ across all stores (Natunhat Boral store: 5.0★ — perfect rating). Over 70,000 customers served since 2014.
+
+## Key Facts
+
+- **Full Legal Name**: Arnav Telecom Private Limited
+- **Founded**: 2014
+- **Headquarters**: Kolkata, West Bengal, India
+- **Website**: https://arnavtelecom.com
+- **Phone (Main)**: +91 85848 30090
+- **WhatsApp**: https://wa.me/918584830090
+- **Social**: https://www.instagram.com/arnavtelecom/ | https://www.facebook.com/arnavtelecom | https://www.youtube.com/@arnavtelecom
+- **Number of stores**: 7
+- **Regions served**: South Kolkata, Hooghly, Rajpur-Sonarpur, Garia, Boral, Natunhat, Bandel, Mahamayatala, Paschim Nischintapur
+
+## Store Locations (All 7 Stores)
+
+- **Arnav Telecom – Garia Mahamayatala** | 129 Ananda Pally, Garia, Mahamayatala, Kolkata 700084 | Phone: +91 83340 04008 | Near Garia Metro Station | Rating: 4.8★ | Page: https://arnavtelecom.com/stores/garia-mahamayatala.html
+- **Arnav Telecom – Rajpur Sonarpur** | Near Rajpur Railway Station, Rajpur, Sonarpur, Kolkata 700149 | Phone: +91 85838 44484 | Rating: 4.5★ | Page: https://arnavtelecom.com/stores/rajpur-sonarpur.html
+- **Arnav Telecom – Sonarpur** | Near Sonarpur Station, Sonarpur, Kolkata 700150 | Phone: +91 62899 22422 | Rating: 4.7★ | Page: https://arnavtelecom.com/stores/sonarpur.html
+- **Arnav Telecom – Boral Rakshiter More** | Rakshiter More, Boral, Kolkata 700154 | Phone: +91 96746 11661 | Rating: 4.6★ | Page: https://arnavtelecom.com/stores/boral-rakshiter.html
+- **Arnav Telecom – Bandel Hooghly** | Bandel, Hooghly, West Bengal 712103 | Phone: +91 94769 03335 | Rating: 4.4★ | Page: https://arnavtelecom.com/stores/bandel-hooghly.html
+- **Mi Store Garia (Arnav Telecom)** | Garia, Kolkata 700084 | Phone: +91 97481 16600 | Authorised Xiaomi/Mi Store | Rating: 4.0★ | Page: https://arnavtelecom.com/stores/mi-store-garia.html
+- **Arnav Telecom – Natunhat, Boral** | 492, Paschim Nischintapur, Natunhat, Boral, Kolkata 700154 | Phone: +91 98756 33602 | Rating: 5.0★ (Perfect) | Page: https://arnavtelecom.com/stores/natunhat-boral.html
+
+## All Store Timings
+
+Monday to Sunday: 10:00 AM – 10:00 PM (Open all days including public holidays)
+
+## Services
+
+- Smartphone & Laptop Sales (authorised dealer, brand warranty on all products)
+- Home Finance EMI (0% No Cost EMI, zero down-payment available; partners: Bajaj Finserv, HDFC Bank, IDFC First Bank, TVS Credit, Home Credit, HDB Financial)
+- Doorstep Demo & Delivery (executive visits home with working demo unit across South Kolkata and Hooghly)
+- Mobile Accessories (boAt, Realme, and multi-brand)
+- Trade-in / Exchange Program (best exchange value for old smartphones)
+
+## Brand Authorisations
+
+Samsung | Apple | Motorola | Xiaomi | Redmi | POCO | Vivo | OPPO | Realme | OnePlus | Nothing Phone | Google Pixel | iQOO | boAt | HP Laptops | Lenovo Laptops | Dell
+
+## Content Pages (for AI citation)
+
+### Homepage
+- https://arnavtelecom.com/
+  Summary: Overview of Arnav Telecom — 7 stores, services, EMI, doorstep demo, brand partnerships across South Kolkata and Hooghly.
+
+### About
+- https://arnavtelecom.com/about.html
+  Summary: Company history (founded 2014), milestones, 7 stores, 70,000+ customers, brand partnerships.
+
+### Store Locator
+- https://arnavtelecom.com/stores.html
+  Summary: All 7 Arnav Telecom store locations with addresses, timings (10AM–10PM daily), phone numbers, and Google Maps.
+
+### Individual Store Pages
+- https://arnavtelecom.com/stores/garia-mahamayatala.html — Garia Mahamayatala store, near Garia Metro Station, Kolkata. Phone: +91 83340 04008. Rating 4.8★.
+- https://arnavtelecom.com/stores/rajpur-sonarpur.html — Rajpur Sonarpur store, near Rajpur Railway Station. Phone: +91 85838 44484. Rating 4.5★.
+- https://arnavtelecom.com/stores/sonarpur.html — Sonarpur station area store. Phone: +91 62899 22422. Rating 4.7★.
+- https://arnavtelecom.com/stores/boral-rakshiter.html — Boral Rakshiter More store, Kolkata. Phone: +91 96746 11661. Rating 4.6★.
+- https://arnavtelecom.com/stores/bandel-hooghly.html — Bandel Hooghly store, West Bengal. Phone: +91 94769 03335. Rating 4.4★.
+- https://arnavtelecom.com/stores/mi-store-garia.html — Mi Store Garia (authorised Xiaomi store). Phone: +91 97481 16600. Rating 4.0★.
+- https://arnavtelecom.com/stores/natunhat-boral.html — Natunhat Boral store, 492 Paschim Nischintapur. Phone: +91 98756 33602. Rating 5.0★ (perfect).
+
+### Services
+- https://arnavtelecom.com/services.html
+  Summary: Home delivery, EMI, doorstep demo, accessories, trade-in, and after-sales support.
+
+### Offers
+- https://arnavtelecom.com/offers.html
+  Summary: Current smartphone and laptop offers, exchange deals, festive discounts.
+
+### FAQ
+- https://arnavtelecom.com/faq.html
+  Summary: Common questions about EMI, brands stocked, delivery, exchange, and store timings.
+
+### Blog Articles
+- https://arnavtelecom.com/blog/best-phone-under-20000.html
+  Summary: Top 5 phones under ₹20,000 in Kolkata (2026) — Motorola Edge 50 Fusion, Vivo T3 5G, Samsung M35 5G, Redmi Note 13 Pro, OnePlus Nord CE 4. All available with 0% EMI at Arnav Telecom.
+
+- https://arnavtelecom.com/blog/iphone-vs-samsung.html
+  Summary: Detailed comparison — iPhone 15 Pro vs Samsung Galaxy S24 Ultra for Indian buyers in 2026. Covers camera, performance, software, value, and EMI pricing at Arnav Telecom.
+
+- https://arnavtelecom.com/blog/best-camera-phone.html
+  Summary: Best camera phones of 2026 — iPhone 15 Pro Max, Vivo X100 Pro (ZEISS), Samsung S24 Ultra (200 MP), Google Pixel 8 Pro (AI camera), OnePlus 12. Available at Arnav Telecom Kolkata.
+
+- https://arnavtelecom.com/blog/top-gaming-phones.html
+  Summary: Top gaming phones in Kolkata for BGMI and Free Fire — iQOO 12, OnePlus 12R, Samsung Galaxy S24+, Poco X6 Pro. Available with 0% EMI at Arnav Telecom.
+
+- https://arnavtelecom.com/blog/durga-puja-offers.html
+  Summary: Durga Puja smartphone sale offers at Arnav Telecom — Apple free accessories, Samsung exchange bonus, laptop student discounts, TWS flat 40% off.
+
+### Landing Pages (Local SEO)
+- https://arnavtelecom.com/mobile-shop-in-garia.html — Mobile shop near Garia Metro Station
+- https://arnavtelecom.com/samsung-store-sonarpur.html — Samsung dealer in Sonarpur/Rajpur
+- https://arnavtelecom.com/best-iphone-store-kolkata.html — Best iPhone store in Kolkata
+- https://arnavtelecom.com/emi-mobile-shop-kolkata.html — EMI mobile shop Kolkata
+- https://arnavtelecom.com/laptop-shop-in-hooghly.html — Laptop shop in Hooghly/Bandel
+
+## Contact
+
+- General enquiries: https://arnavtelecom.com/contact.html
+- WhatsApp: https://wa.me/918584830090
+- Franchise enquiries: https://arnavtelecom.com/franchise.html
