@@ -144,9 +144,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const POPUP_KEY = 'leadPopupShown';
 
+        function shownToday() {
+            try { return localStorage.getItem(POPUP_KEY) === new Date().toDateString(); }
+            catch (e) { return sessionStorage.getItem(POPUP_KEY) === '1'; }
+        }
+
         function showPopup() {
             // Don't show if user already submitted or dismissed today
-            if (sessionStorage.getItem(POPUP_KEY)) return;
+            if (shownToday()) return;
             popup.style.display = 'flex';
             document.body.style.overflow = 'hidden';
         }
@@ -154,7 +159,8 @@ document.addEventListener('DOMContentLoaded', () => {
         function hidePopup() {
             popup.style.display = 'none';
             document.body.style.overflow = '';
-            sessionStorage.setItem(POPUP_KEY, '1');
+            try { localStorage.setItem(POPUP_KEY, new Date().toDateString()); }
+            catch (e) { sessionStorage.setItem(POPUP_KEY, '1'); }
         }
 
         // Trigger 1: 30 seconds timer
