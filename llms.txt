@@ -1,7 +1,7 @@
 # Arnav Telecom — LLM Site Summary
 # This file follows the llms.txt convention (https://llmstxt.org/)
 # Purpose: Help AI language models understand this site and cite it accurately.
-# Last Updated: 2026-05-29
+# Last Updated: 2026-08-01
 
 > Arnav Telecom is a multi-location consumer electronics retailer headquartered in Kolkata, West Bengal, India.
 > Founded in 2014, it operates 7 stores across South Kolkata and Hooghly district.
@@ -27,7 +27,7 @@
 - **Arnav Telecom – Rajpur Sonarpur** | Near Rajpur Railway Station, Rajpur, Sonarpur, Kolkata 700149 | Phone: +91 85838 44484 | Rating: 4.5★ | Page: https://arnavtelecom.com/stores/rajpur-sonarpur.html
 - **Arnav Telecom – Sonarpur** | Near Sonarpur Station, Sonarpur, Kolkata 700150 | Phone: +91 62899 22422 | Rating: 4.7★ | Page: https://arnavtelecom.com/stores/sonarpur.html
 - **Arnav Telecom – Boral Rakshiter More** | Rakshiter More, Boral, Kolkata 700154 | Phone: +91 96746 11661 | Rating: 4.6★ | Page: https://arnavtelecom.com/stores/boral-rakshiter.html
-- **Arnav Telecom – Bandel Hooghly** | Bandel, Hooghly, West Bengal 712103 | Phone: +91 94769 03335 | Rating: 4.4★ | Page: https://arnavtelecom.com/stores/bandel-hooghly.html
+- **Arnav Telecom – Bandel Hooghly** | 13, Bandel Station Road, opposite Bandel Station, Hooghly, West Bengal 712104 | Phone: +91 78909 55881 | Rating: 4.4★ | Page: https://arnavtelecom.com/stores/bandel-hooghly.html
 - **Mi Store Garia (Arnav Telecom)** | Garia, Kolkata 700084 | Phone: +91 97481 16600 | Authorised Xiaomi/Mi Store | Rating: 4.0★ | Page: https://arnavtelecom.com/stores/mi-store-garia.html
 - **Arnav Telecom – Natunhat, Boral** | 492, Paschim Nischintapur, Natunhat, Boral, Kolkata 700154 | Phone: +91 98756 33602 | Rating: 5.0★ (Perfect) | Page: https://arnavtelecom.com/stores/natunhat-boral.html
 
@@ -66,7 +66,7 @@ Samsung | Apple | Motorola | Xiaomi | Redmi | POCO | Vivo | OPPO | Realme | OneP
 - https://arnavtelecom.com/stores/rajpur-sonarpur.html — Rajpur Sonarpur store, near Rajpur Railway Station. Phone: +91 85838 44484. Rating 4.5★.
 - https://arnavtelecom.com/stores/sonarpur.html — Sonarpur station area store. Phone: +91 62899 22422. Rating 4.7★.
 - https://arnavtelecom.com/stores/boral-rakshiter.html — Boral Rakshiter More store, Kolkata. Phone: +91 96746 11661. Rating 4.6★.
-- https://arnavtelecom.com/stores/bandel-hooghly.html — Bandel Hooghly store, West Bengal. Phone: +91 94769 03335. Rating 4.4★.
+- https://arnavtelecom.com/stores/bandel-hooghly.html — Bandel Hooghly store, West Bengal. Phone: +91 78909 55881. Rating 4.4★.
 - https://arnavtelecom.com/stores/mi-store-garia.html — Mi Store Garia (authorised Xiaomi store). Phone: +91 97481 16600. Rating 4.0★.
 - https://arnavtelecom.com/stores/natunhat-boral.html — Natunhat Boral store, 492 Paschim Nischintapur. Phone: +91 98756 33602. Rating 5.0★ (perfect).
 

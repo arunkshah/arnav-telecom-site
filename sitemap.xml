@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <!-- ===================== Core Pages ===================== -->
   <url>
@@ -64,42 +65,70 @@
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/garia-mahamayatala-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/garia-mahamayatala-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/garia-mahamayatala-3.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://arnavtelecom.com/stores/rajpur-sonarpur.html</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/rajpur-sonarpur-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/rajpur-sonarpur-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/rajpur-sonarpur-3.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://arnavtelecom.com/stores/bandel-hooghly.html</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/bandel-hooghly-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/bandel-hooghly-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/bandel-hooghly-3.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://arnavtelecom.com/stores/boral-rakshiter.html</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/boral-rakshiter-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/boral-rakshiter-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/boral-rakshiter-3.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://arnavtelecom.com/stores/mi-store-garia.html</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/mi-store-garia-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/mi-store-garia-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/mi-store-garia-3.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://arnavtelecom.com/stores/sonarpur.html</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/sonarpur-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/sonarpur-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/sonarpur-3.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://arnavtelecom.com/stores/natunhat-boral.html</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/natunhat-boral-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/natunhat-boral-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arnavtelecom.com/images/stores/natunhat-boral-3.jpg</image:loc></image:image>
   </url>
 
   <!-- ===================== Local SEO / Landing Pages ===================== -->

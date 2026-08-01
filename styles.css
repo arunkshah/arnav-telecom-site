@@ -3113,3 +3113,19 @@ a.breadcrumb-item:hover {
     .stores-gbp-banner { flex-direction: column; text-align: center; }
     .stores-gbp-banner__icon { margin: 0 auto; }
 }
+
+/* ---- Sitewide store NAP band (local SEO) ---- */
+.footer-nap{border-bottom:1px solid rgba(255,255,255,.12);padding-bottom:2rem;margin-bottom:2rem}
+.fnap-head{margin-bottom:1.5rem}
+.fnap-head h3{font-family:var(--font-heading);font-size:1.15rem;font-weight:700;color:#fff;margin:0 0 .35rem}
+.fnap-head p{color:#94a3b8;font-size:.9rem;margin:0}
+.fnap-head p a{color:var(--primary-light);font-weight:600}
+.fnap-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.25rem}
+.fnap-item{display:flex;flex-direction:column;gap:.2rem;font-size:.82rem;line-height:1.5}
+.fnap-name{color:#fff;font-weight:700;font-size:.9rem;text-decoration:none}
+.fnap-name:hover{color:var(--primary-light)}
+.fnap-addr{color:#94a3b8}
+.fnap-tel{color:var(--primary-light);font-weight:600;text-decoration:none}
+.fnap-hrs{color:#64748b;font-size:.78rem}
+@media(max-width:600px){.fnap-grid{grid-template-columns:1fr 1fr;gap:1rem}.fnap-item{font-size:.76rem}}
+@media(max-width:380px){.fnap-grid{grid-template-columns:1fr}}
