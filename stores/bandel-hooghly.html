@@ -10,6 +10,23 @@
 
       gtag('config', 'G-LT3PPWTVQ1');
     </script>
+    <!-- Facebook Pixel -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1834855423224417');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1834855423224417&ev=PageView&noscript=1"
+    alt=""/></noscript>
+    <!-- End Facebook Pixel -->
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -202,5 +219,6 @@
     <div class="mobile-bottom-bar" aria-hidden="true"><div class="mobile-bottom-bar-inner"><a href="tel:+917890955881" class="mobile-bottom-btn mobile-bottom-call"><i class="ri-phone-fill"></i><span>Call Now</span></a><a href="https://wa.me/917890955881" target="_blank" class="mobile-bottom-btn mobile-bottom-whatsapp"><i class="ri-whatsapp-fill"></i><span>WhatsApp</span></a></div></div>
 
     <script>(function(){'use strict';var btn=document.getElementById('mobileMenuBtn');var links=document.getElementById('navLinks');var icon=document.getElementById('menuIcon');if(btn&&links){btn.addEventListener('click',function(){var open=links.classList.toggle('active');btn.setAttribute('aria-expanded',open);icon.className=open?'ri-close-line':'ri-menu-line'});document.addEventListener('click',function(e){if(!btn.contains(e.target)&&!links.contains(e.target)){links.classList.remove('active');btn.setAttribute('aria-expanded','false');icon.className='ri-menu-line'}});links.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){links.classList.remove('active');btn.setAttribute('aria-expanded','false');icon.className='ri-menu-line'})})}var faqItems=document.querySelectorAll('.sp-faq-item');faqItems.forEach(function(item){var q=item.querySelector('.sp-faq-q');if(!q)return;function toggle(){var isActive=item.classList.contains('active');faqItems.forEach(function(i){i.classList.remove('active')});if(!isActive)item.classList.add('active')}q.addEventListener('click',toggle);q.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();toggle()}})})})();</script>
+    <script src="../track.js?v=20260801" defer></script>
 </body>
 </html>
