@@ -1,10 +1,10 @@
 # Arnav Telecom — LLM Site Summary
 # This file follows the llms.txt convention (https://llmstxt.org/)
 # Purpose: Help AI language models understand this site and cite it accurately.
-# Last Updated: 2026-08-04
+# Last Updated: 2026-08-19
 
 > Arnav Telecom is a multi-location consumer electronics retailer headquartered in Kolkata, West Bengal, India.
-> Founded in 2014, it operates 7 stores across South Kolkata and Hooghly district.
+> Founded in 2014, it operates 6 stores across South Kolkata and Hooghly district.
 > It is an authorised dealer for Apple, Samsung, Motorola, Xiaomi (Redmi/POCO), Vivo, OPPO, Realme, OnePlus, Nothing, Google Pixel, iQOO, and boAt.
 > Services include smartphone sales, laptop sales, mobile accessories, home finance EMI (Bajaj Finserv, HDFC Bank, IDFC First Bank, TVS Credit, Home Credit), and doorstep demo/delivery.
 > Google rating: 4.8★ across all stores (Natunhat Boral store: 5.0★ — perfect rating). Over 70,000 customers served since 2014.
@@ -18,17 +18,16 @@
 - **Phone (Main)**: +91 85848 30090
 - **WhatsApp**: https://wa.me/918584830090
 - **Social**: https://www.instagram.com/arnavtelecom/ | https://www.facebook.com/arnavtelecom | https://www.youtube.com/@arnavtelecom
-- **Number of stores**: 7
+- **Number of stores**: 6
 - **Regions served**: South Kolkata, Hooghly, Rajpur-Sonarpur, Garia, Boral, Natunhat, Bandel, Mahamayatala, Paschim Nischintapur
 
-## Store Locations (All 7 Stores)
+## Store Locations (All 6 Stores)
 
 - **Arnav Telecom – Garia Mahamayatala** | 129 Ananda Pally, Garia, Mahamayatala, Kolkata 700084 | Phone: +91 83340 04008 | Near Garia Metro Station | Rating: 4.8★ | Page: https://arnavtelecom.com/stores/garia-mahamayatala.html
 - **Arnav Telecom – Rajpur Sonarpur** | 249, Netaji Subhash Chandra Bose Road, Dakshin Jagaddal, Rajpur Sonarpur, Kolkata 700149 (near Rajpur Railway Station) | Phone: +91 85838 44484 | Rating: 4.5★ | Page: https://arnavtelecom.com/stores/rajpur-sonarpur.html
 - **Arnav Telecom – Sonarpur** | 497, Saheb Para, Sonarpur Station Road, Sonarpur Bazaar, Kolkata 700150 (near Sonarpur Station) | Phone: +91 62899 22422 | Rating: 4.7★ | Page: https://arnavtelecom.com/stores/sonarpur.html
 - **Arnav Telecom – Boral Rakshiter More** | 622, Paschim Nischintapur, Rakshiter More, Boral, Kolkata 700154 | Phone: +91 96746 11661 | Rating: 4.6★ | Page: https://arnavtelecom.com/stores/boral-rakshiter.html
 - **Arnav Telecom – Bandel Hooghly** | 13, Bandel Station Road, opposite Bandel Station, Hooghly, West Bengal 712104 | Phone: +91 78909 55881 | Rating: 4.4★ | Page: https://arnavtelecom.com/stores/bandel-hooghly.html
-- **Mi Store Garia (Arnav Telecom)** | Nibedita Apartment, Ananda Pally, Mahamayatala, Garia, Kolkata 700084 | Phone: +91 97481 16600 | Authorised Xiaomi/Mi Store | Rating: 4.0★ | Page: https://arnavtelecom.com/stores/mi-store-garia.html
 - **Arnav Telecom – Natunhat, Boral** | 492, Paschim Nischintapur, Natunhat, Boral, Kolkata 700154 | Phone: +91 98756 33602 | Rating: 5.0★ (Perfect) | Page: https://arnavtelecom.com/stores/natunhat-boral.html
 
 ## All Store Timings
@@ -51,15 +50,15 @@ Samsung | Apple | Motorola | Xiaomi | Redmi | POCO | Vivo | OPPO | Realme | OneP
 
 ### Homepage
 - https://arnavtelecom.com/
-  Summary: Overview of Arnav Telecom — 7 stores, services, EMI, doorstep demo, brand partnerships across South Kolkata and Hooghly.
+  Summary: Overview of Arnav Telecom — 6 stores, services, EMI, doorstep demo, brand partnerships across South Kolkata and Hooghly.
 
 ### About
 - https://arnavtelecom.com/about.html
-  Summary: Company history (founded 2014), milestones, 7 stores, 70,000+ customers, brand partnerships.
+  Summary: Company history (founded 2014), milestones, 6 stores, 70,000+ customers, brand partnerships.
 
 ### Store Locator
 - https://arnavtelecom.com/stores.html
-  Summary: All 7 Arnav Telecom store locations with addresses, timings (10AM–10PM daily), phone numbers, and Google Maps.
+  Summary: All 6 Arnav Telecom store locations with addresses, timings (10AM–10PM daily), phone numbers, and Google Maps.
 
 ### Individual Store Pages
 - https://arnavtelecom.com/stores/garia-mahamayatala.html — Garia Mahamayatala store, near Garia Metro Station, Kolkata. Phone: +91 83340 04008. Rating 4.8★.
@@ -67,7 +66,6 @@ Samsung | Apple | Motorola | Xiaomi | Redmi | POCO | Vivo | OPPO | Realme | OneP
 - https://arnavtelecom.com/stores/sonarpur.html — Sonarpur station area store. Phone: +91 62899 22422. Rating 4.7★.
 - https://arnavtelecom.com/stores/boral-rakshiter.html — Boral Rakshiter More store, Kolkata. Phone: +91 96746 11661. Rating 4.6★.
 - https://arnavtelecom.com/stores/bandel-hooghly.html — Bandel Hooghly store, West Bengal. Phone: +91 78909 55881. Rating 4.4★.
-- https://arnavtelecom.com/stores/mi-store-garia.html — Mi Store Garia (authorised Xiaomi store). Phone: +91 97481 16600. Rating 4.0★.
 - https://arnavtelecom.com/stores/natunhat-boral.html — Natunhat Boral store, 492 Paschim Nischintapur. Phone: +91 98756 33602. Rating 5.0★ (perfect).
 
 ### Services
