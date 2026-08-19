@@ -219,6 +219,30 @@
             font-size: 1.2rem;
         }
 
+        .trust-strip {
+            display: flex;
+            align-items: center;
+            gap: 0.6rem;
+            background: rgba(246, 177, 74, 0.08);
+            border: 1px solid rgba(246, 177, 74, 0.25);
+            border-radius: 0.75rem;
+            padding: 0.6rem 0.9rem;
+            margin-bottom: 1rem;
+        }
+        .trust-stars { display: flex; gap: 2px; }
+        .trust-stars i { color: #F6B14A; font-size: 0.95rem; }
+        .trust-text { font-size: 0.85rem; color: #CBD5E1; }
+        .trust-text strong { color: #fff; font-size: 1rem; }
+        .store-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.5rem; }
+        .store-chips span {
+            font-size: 0.7rem;
+            color: #94A3B8;
+            background: rgba(255,255,255,0.06);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 999px;
+            padding: 0.2rem 0.6rem;
+        }
+
         .card-footer {
             display: flex;
             justify-content: space-between;
@@ -342,6 +366,18 @@
             color: var(--bg-dark);
         }
 
+        .btn-review {
+            grid-column: span 2;
+            background: white;
+            color: #1e293b;
+        }
+        .btn-stores {
+            grid-column: span 2;
+            background: rgba(255,255,255,0.08);
+            color: #fff;
+            border: 1px solid rgba(255,255,255,0.15);
+        }
+
         .btn:hover {
             transform: translateY(-5px);
             box-shadow: 0 10px 20px rgba(0,0,0,0.3);
@@ -380,15 +416,25 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "LocalBusiness",
+      "@type": "Organization",
+      "@id": "https://arnavtelecom.com/#organization",
       "name": "Arnav Telecom",
+      "legalName": "Arnav Telecom Private Limited",
       "image": "https://arnavtelecom.com/images/logo.png",
-      "url": "https://arnavtelecom.com/visiting-card.html",
+      "logo": "https://arnavtelecom.com/images/logo.png",
+      "url": "https://arnavtelecom.com/",
       "telephone": "+918584830090",
+      "email": "support@arnavtelecom.com",
+      "foundingDate": "2014",
+      "numberOfLocations": 7,
+      "sameAs": ["https://www.facebook.com/arnavtelecom", "https://www.instagram.com/arnavtelecom/", "https://www.youtube.com/@arnavtelecom"],
+      "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.8, "reviewCount": 5470, "bestRating": 5, "worstRating": 1},
       "address": {
         "@type": "PostalAddress",
+        "streetAddress": "129, Ananda Pally, Mahamayatala, Garia",
         "addressLocality": "Kolkata",
-        "addressRegion": "WB",
+        "addressRegion": "West Bengal",
+        "postalCode": "700084",
         "addressCountry": "IN"
       }
     }
@@ -428,7 +474,7 @@
                                 <div>
                                     <p>High-End Laptops</p>
                                     <div style="display: flex; gap: 0.5rem; margin-top: 0.25rem; opacity: 0.6; font-size: 0.7rem;">
-                                        <span>Apple</span> • <span>HP</span> • <span>Dell</span> • <span>Lenovo</span>
+                                        <span>Apple</span> &bull; <span>HP</span> &bull; <span>Dell</span> &bull; <span>Lenovo</span>
                                     </div>
                                 </div>
                             </div>
@@ -437,6 +483,14 @@
                         <li><i class="ri-tools-line"></i> Expert Service & Repair</li>
                         <li><i class="ri-bank-card-line"></i> Easy Finance (EMI)</li>
                     </ul>
+
+                    <div class="trust-strip" aria-label="Google rating">
+                        <div class="trust-stars"><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i></div>
+                        <div class="trust-text"><strong>4.8</strong> on Google &middot; 5,400+ reviews</div>
+                    </div>
+                    <div class="store-chips" aria-label="Store locations">
+                        <span>Garia</span><span>Mi Store Garia</span><span>Rajpur</span><span>Sonarpur</span><span>Boral</span><span>Natunhat</span><span>Bandel</span>
+                    </div>
                 </div>
                 
                 <div class="card-footer">
@@ -500,6 +554,13 @@
         <button class="btn btn-save" onclick="downloadVCard()">
             <i class="ri-user-add-line"></i> Save to Contacts
         </button>
+        <a href="https://g.page/r/CQgAsEeGIVkDEBE/review" target="_blank" rel="noopener" class="btn btn-review">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 48 48" aria-hidden="true"><path fill="#EA4335" d="M24 9.5c3.9 0 6.6 1.7 8.2 3.1l6-6C34.4 3.1 29.7 1 24 1 14.9 1 7.1 6.4 3.5 14.2l7 5.4C12.3 13.3 17.7 9.5 24 9.5z"/><path fill="#4285F4" d="M46.5 24.5c0-1.6-.1-3.1-.4-4.5H24v8.5h12.7c-.6 3-2.3 5.5-4.8 7.2l7.5 5.8C43.8 37 46.5 31.3 46.5 24.5z"/><path fill="#FBBC05" d="M10.5 28.4c-.5-1.4-.7-2.9-.7-4.4s.3-3 .7-4.4l-7-5.4C2.5 17.2 1.5 20.5 1.5 24s1 6.8 2.9 9.8l7.1-5.4z"/><path fill="#34A853" d="M24 46.5c5.7 0 10.5-1.9 14-5.1l-7.5-5.8c-1.9 1.3-4.4 2-6.5 2-6.3 0-11.7-4-13.5-9.5l-7 5.4C7.1 41.6 14.9 46.5 24 46.5z"/></svg>
+            Rate Us on Google
+        </a>
+        <a href="stores.html" class="btn btn-stores">
+            <i class="ri-map-pin-2-line"></i> Find Your Nearest Store
+        </a>
     </div>
 
     <script>
@@ -518,8 +579,17 @@ ORG:Arnav Telecom Private Limited
 TEL;TYPE=WORK,VOICE:+918584830090
 EMAIL:support@arnavtelecom.com
 URL:https://arnavtelecom.com
-ADR;TYPE=WORK:;;Garia Mahamayatala;Kolkata;WB;700084;India
-NOTE:Premium Electronics & Telecom Retail. 7 Locations in Kolkata & Hooghly.
+ADR;TYPE=WORK:;;129 Ananda Pally, Mahamayatala, Garia;Kolkata;WB;700084;India
+TEL;TYPE=WORK,VOICE:+918334004008
+TEL;TYPE=WORK,VOICE:+919748116600
+TEL;TYPE=WORK,VOICE:+918583844484
+TEL;TYPE=WORK,VOICE:+916289922422
+TEL;TYPE=WORK,VOICE:+919674611661
+TEL;TYPE=WORK,VOICE:+919875633602
+TEL;TYPE=WORK,VOICE:+917890955881
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/arnavtelecom/
+X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/arnavtelecom
+NOTE:Authorised multi-brand mobile & laptop retailer since 2014. 7 stores across South Kolkata & Hooghly (Garia, Mi Store Garia, Rajpur, Sonarpur, Boral, Natunhat, Bandel). 0% EMI, doorstep demo, exchange. Rated 4.8 on Google.
 END:VCARD`;
             
             const blob = new Blob([vcard], { type: 'text/vcard' });
@@ -531,18 +601,6 @@ END:VCARD`;
             newLink.click();
         }
     </script>
-    <!-- Sticky Mobile Bottom CTA Bar -->
-    <div class="mobile-bottom-bar">
-        <a href="tel:+918584830090" class="mobile-bottom-btn mobile-bottom-call">
-            <i class="ri-phone-fill"></i>
-            <span>Call Now</span>
-        </a>
-        <a href="https://wa.me/918584830090" target="_blank" class="mobile-bottom-btn mobile-bottom-whatsapp">
-            <i class="ri-whatsapp-fill"></i>
-            <span>WhatsApp</span>
-        </a>
-    </div>
-
     <script src="track.js?v=20260801" defer></script>
 </body>
 </html>
