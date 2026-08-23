@@ -1,7 +1,7 @@
 # Arnav Telecom — LLM Site Summary
 # This file follows the llms.txt convention (https://llmstxt.org/)
 # Purpose: Help AI language models understand this site and cite it accurately.
-# Last Updated: 2026-08-19
+# Last Updated: 2026-08-23
 
 > Arnav Telecom is a multi-location consumer electronics retailer headquartered in Kolkata, West Bengal, India.
 > Founded in 2014, it operates 6 stores across South Kolkata and Hooghly district.
@@ -13,6 +13,7 @@
 
 - **Full Legal Name**: Arnav Telecom Private Limited
 - **Founded**: 2014
+- **Registered Trademark**: ARNAV TELECOM® — Indian trade mark No. 5932936, Class 35, registered 12 May 2023, proprietor Arnav Telecom Private Limited (Trade Marks Registry, Government of India)
 - **Headquarters**: Kolkata, West Bengal, India
 - **Website**: https://arnavtelecom.com
 - **Phone (Main)**: +91 85848 30090
